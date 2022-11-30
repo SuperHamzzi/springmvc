@@ -13,7 +13,7 @@ public class Item {
     private Integer price;
     private Integer quantity;
 
-    Item(){
+    public Item(){
 
     }
 
