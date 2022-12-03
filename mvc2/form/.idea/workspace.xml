@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c1daad9-13cb-4aaa-86e5-7f8e6149136a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/java/hello/thymeleaf/basic/TemplateController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/attribute.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/basic-objects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/block.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/comments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/condition.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/each.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/literal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/operation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/text-basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/text-unescaped.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/basic/variable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/template/fragment/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/template/fragment/fragmentMain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/template/layout/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/template/layout/layoutMain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/template/layoutExtend/layoutExtendMain.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../thymeleaf-basic/src/main/resources/templates/template/layoutExtend/layoutFile.html" afterDir="false" />
-    </list>
+    <list default="true" id="1c1daad9-13cb-4aaa-86e5-7f8e6149136a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,20 +26,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gksrn_pl1/OneDrive/바탕 화면/Spring-mvc/mvc2/form/build.gradle&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;d10ae707bbd11fd72b118cc745a8d62b&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/gksrn_pl1/OneDrive/바탕 화면/Spring-mvc/form/build.gradle",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "d10ae707bbd11fd72b118cc745a8d62b"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <setting name="path" value="" />
@@ -107,7 +83,7 @@
       <workItem from="1669917312481" duration="961000" />
       <workItem from="1669939346829" duration="948000" />
       <workItem from="1669944359223" duration="63000" />
-      <workItem from="1669944435645" duration="4129000" />
+      <workItem from="1669944435645" duration="4206000" />
     </task>
     <servers />
   </component>
